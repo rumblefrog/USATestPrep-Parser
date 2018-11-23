@@ -3,6 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"io/ioutil"
 	"strings"
 
 	"github.com/gocolly/colly"
@@ -48,8 +49,6 @@ func main() {
 			}
 
 			Pairs[ID].Explanation = e.ChildText("div[id=question_explanation]")
-
-			fmt.Println(e.ChildText("div[id=question_explanation]"))
 		}
 	})
 
@@ -60,7 +59,7 @@ func main() {
 			fmt.Println(err)
 		}
 
-		fmt.Println(string(b))
+		ioutil.WriteFile("data/out.json", b, 777)
 	})
 
 	c.Visit("http://localhost/index.html")
