@@ -32,7 +32,9 @@ func main() {
 			_, ok := Pairs[ID]
 
 			if !ok {
-				Pairs[ID] = &Question{}
+				Pairs[ID] = &Question{
+					ID: ID,
+				}
 			}
 
 			Pairs[ID].Summary = e.ChildText("td.border_gray:nth-child(2) > div")
@@ -40,7 +42,9 @@ func main() {
 			_, ok := Pairs[ID]
 
 			if !ok {
-				Pairs[ID] = &Question{}
+				Pairs[ID] = &Question{
+					ID: ID,
+				}
 			}
 
 			Pairs[ID].Explanation = e.ChildText("div[id=question_explanation]")
