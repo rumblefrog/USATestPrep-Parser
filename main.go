@@ -20,6 +20,10 @@ var Pairs map[string]*Question
 func main() {
 	Pairs = make(map[string]*Question)
 
+	bytes, _ := ioutil.ReadFile("data/out.json")
+
+	json.Unmarshal(bytes, &Pairs)
+
 	c := colly.NewCollector()
 
 	c.OnHTML("tr[id]", func(e *colly.HTMLElement) {
