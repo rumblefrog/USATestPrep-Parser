@@ -1,0 +1,732 @@
+{
+    "111788": {
+        "id": "111788",
+        "summary": "Given the facts established in the above two sentences, what would be the best way to alter the syntax if you wished to emphasize Andre's boldness?",
+        "explanation": "Correct \n\tThe correct answer is Even though the movie was scary, Andre still saw it. Only this form of the sentence emphasizes that he saw the movie \"even though\" it was scary, which implies that its scariness might have prevented him from going if he hadn't chosen to be bold."
+    },
+    "111824": {
+        "id": "111824",
+        "summary": "Choose the answer in which the syntax best reflects that Keith's desire does not conflict with his knowledge.",
+        "explanation": "Correct \n\tThe correct answer is Keith knew that it was his sister's birthday, and he didn't want to make a big deal about it. This sentence is the only one where Keith's desire clearly is not in contradiction with the knowledge he has."
+    },
+    "111830": {
+        "id": "111830",
+        "summary": "How might the syntax of the above sentences best be varied in order to imply a causal relationship between the second and third sentence?",
+        "explanation": "Incorrect \n\tThe correct answer is I have a wife and seven children, and I am going insane. The conjunction \"and\" best implies a cause-effect relationship between the first clause and the second (without directly stating it).\n\t\n\tFirst\n\t\n\tThe point of view in which a story is told by one of the characters is called ____ person."
+    },
+    "111832": {
+        "id": "111832",
+        "summary": "The above is a sentence fragment. How might the syntax be rearranged to make it into a complete sentence?",
+        "explanation": "Incorrect \n\tThe correct answer is She got that chair as a present from a deceased uncle. Of all of the choices, this is the only one which makes the fragment into a sentence."
+    },
+    "112622": {
+        "id": "112622",
+        "summary": "Which sentence uses the word \"unique\" in a way that is often contested or identified as \"wrong\"?",
+        "explanation": "Correct \n\tThe sentence that uses the word \"unique\" in a way that is questionable to some people is the following one: We went on a very unique tour of the underwater caves found in Tennessee. Since \"unique\" means \"one of a kind,\" many usage experts believe you cannot modify the word \"unique\" by describing something as \"more unique\" or \"very unique.\"\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "112626": {
+        "id": "112626",
+        "summary": "Which sentence uses the word \"than\" or \"then\" in a way that is often contested or identified as \"wrong\"?",
+        "explanation": "Incorrect \n\tThe sentence that uses the word \"then\" or \"than\" in a way that is questionable to some people is the following one: At first, I was unsure about going to the gym, than I went for a few days and found out I loved it! The word \"than\" is used primarily for comparison, not to indicate time passing or chronology.\n\t\n\tFirst\n\t\n\tThe point of view in which a story is told by one of the characters is called ____ person."
+    },
+    "112664": {
+        "id": "112664",
+        "summary": "Which sentence contains an error in word usage?",
+        "explanation": "Incorrect \n\tThe sentence that has an error in usage is the following one: Sometimes being a man simply means helping others bare their difficult burdens. The word \"bare\" in this sentence should be the word \"bear\" which means \"to help endure or carry.\"\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "112673": {
+        "id": "112673",
+        "summary": "Which sentence contains an error in word usage?",
+        "explanation": "Incorrect \n\tThe sentence that has an error in usage is the following one: The old man in the wizard cloak gave a prophesy that the new king would be found in a forest. The word \"prophesy\" (which is a verb) should be \"prophecy\" (which is a noun describing \"a statement that tells the future\").\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "112674": {
+        "id": "112674",
+        "summary": "Which sentence contains an error in word usage?",
+        "explanation": "Incorrect \n\tThe sentence that has an error in usage is the following one: The ransom note said to drop off the money at a discrete location. The word \"discrete\" means \"separate and distinct,\" while the word \"discreet\" means \"secret, private, and not obviously revealed.\"\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "112718": {
+        "id": "112718",
+        "summary": "In which of these choices is there both correct placement of commas and proper use of parallel structure?",
+        "explanation": "Incorrect \n\tThe correct answer is My friend and I like fishing, hunting, and swimming. It is only in this choice that there is proper parallel structure as well as correct placement of commas.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "112753": {
+        "id": "112753",
+        "summary": "Which choice displays correct use of both parallel structure and commas?",
+        "explanation": "Incorrect \n\tThe correct answer is The following items were in the refrigerator: milk, cheese, bread, and soda. Only this choice displays proper use of both parallel structure and commas.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "112754": {
+        "id": "112754",
+        "summary": "Which of these choices displays both proper parallel structure and correct use of commas?",
+        "explanation": "Incorrect \n\tThe correct answer is The editor told his writers to make sure they punctuate properly, to make sure they place quote marks around direct quotations, and to check the quality of their work. This is the one choice which displays both correct use of commas and proper parallel structure.\n\t\n\tQuote\n\t\n\tIf you repeat the words someone else has said or written, you ______ them.\n\t\n\t\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tDirect Quotation\n\t\n\tThis is the exact repetition of someone's written or spoken words."
+    },
+    "112755": {
+        "id": "112755",
+        "summary": "Which of these choices displays both proper parallel structure and correct use of commas?",
+        "explanation": "Incorrect \n\tThe correct answer is My preferred forms of exercise include running, swimming, biking, and rowing. This choice displays both correct use of commas and parallel structure.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "113753": {
+        "id": "113753",
+        "summary": "Which sentence has a pronoun-antecedent error?",
+        "explanation": "Incorrect \n\tThe sentence that has a pronoun error is: If any student wants to attend the free Shakespeare performance, then they need to sign up with Mrs.. Hall before the end of the week. The singular noun \"student\" needs to be referred to by a singular pronoun (\"he or she\") rather than the plural pronoun (\"they\").\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "113838": {
+        "id": "113838",
+        "summary": "Which sentence has a pronoun-antecedent error?",
+        "explanation": "Incorrect \n\tThe sentence that has a pronoun error is the following one: Either the dog or the kittens are going to have its shots done by the veterinarian today. The plural noun \"kittens\" is closest to the verb and the pronoun of the sentence; therefore the pronoun should be plural--\"their.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "114247": {
+        "id": "114247",
+        "summary": "Which sentence displays proper use of commas and correct parallel structure?",
+        "explanation": "Incorrect \n\tThe correct answer is To bike, to swim, and to hike are my three favorite outdoor activities. In parallel structure, there must be a consistency in the way a list is given (either all gerunds or all infinitives, in this case). However, no comma should be properly placed before the verb \"are.\"\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "114248": {
+        "id": "114248",
+        "summary": "Which choice contains both correct use of parallel structure and proper placement of commas?",
+        "explanation": "Correct \n\tThe correct answer is I wanted to be quick, thorough, precise, and correct. This example displays proper parallel structure (i.e., a consistency of usage), and no misplaced commas.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tPrecise\n\t\n\tTo choose words that exactly and accurately describe or reflect the writer's meaning is to use ____ vocabulary.\n\t\n\t\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "114394": {
+        "id": "114394",
+        "summary": "Which choice contains both correct use of commas and proper parallel structure?",
+        "explanation": "Correct \n\tThe correct answer is He promised to love her in sickness, in health, in poverty, and in wealth. This is one choice in which there are properly placed commas and proper use of parallel structure.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "114403": {
+        "id": "114403",
+        "summary": "Which choice displays both correct comma usage and proper parallel structure?",
+        "explanation": "Incorrect \n\tA good stage performer must be able to sing, to dance, and to enunciate clearly. This is the one choice in which there are no misplaced commas and where proper parallel structure is maintained.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "114409": {
+        "id": "114409",
+        "summary": "Which choice displays correct use of commas and proper parallel structure?",
+        "explanation": "Incorrect \n\tThe correct answer is When I go to the amusement park, I like to ride the roller coaster, eat cotton candy, and hang out with my friends. Of all of the choices, this is the only in which all commas are properly placed and correct parallel usage is displayed.\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "114413": {
+        "id": "114413",
+        "summary": "Which choice does NOT display proper placement of commas and correct use of parallel structure?",
+        "explanation": "Incorrect \n\tThe correct answer is The children's favorite recreational activities were swimming, biking, and to boat. This choice displays improper parallel structure, since \"to boat\" is a change in the phrasing.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "12": {
+        "id": "12",
+        "summary": "Choose the sentence in which the subject and verb do not agree.",
+        "explanation": "Correct \n\tNeither a cheeseburger nor a fried chicken sandwich are low-calorie is incorrectly written. When confronting neither-nor constructions, you should choose the noun closest to the verb to determine the verb form. In this case, chicken sandwich is closest. It is singular, so the verb should be is.\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "12243": {
+        "id": "12243",
+        "summary": "Choose the verb phrase that correctly completes the sentence.",
+        "explanation": "Incorrect \n\tThe correct answer is is Macaroni and cheese is not plural since the two items combine to compose one thing collectively. It takes a singular verb. Bread and butter, bacon and eggs, or strawberries and cream are other examples of this situation.\n\t\n\tCombine\n\t\n\tWe often ___ sentences to remove unnecessary words.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "122508": {
+        "id": "122508",
+        "summary": "Select the choice in which the sentence displays correct pronoun-antecedent agreement.",
+        "explanation": "Correct \n\tThe correct answer is The students were all asked to turn in their tests.. Of the choices available, this is the only one in which the pronoun (\"their\") agrees with the antecedent (\"students\").\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "122511": {
+        "id": "122511",
+        "summary": "Select the choice which features proper pronoun-antecedent agreement.",
+        "explanation": "Correct \n\tThe correct answer is All of the salt was still in its shaker. Of all of the choices, this is the only one which features proper pronoun-antecedent agreement, since \"salt\" cannot be counted here."
+    },
+    "13073": {
+        "id": "13073",
+        "summary": "Which pronoun correctly completes the sentence?",
+        "explanation": "Incorrect \n\tThe correct answer is their. Anna and Paul are the antecedents; therefore, a plural pronoun is required for agreement.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "13123": {
+        "id": "13123",
+        "summary": "Which sentence is written using formal language?",
+        "explanation": "Incorrect \n\t The comments she made during the interview were quite offensive. This sentence does not include slang, idioms, or dialect; therefore, it is formal language,or Standard American English.\n\t\n\tFormal Language\n\t\n\tThis kind of language usually has longer sentences and a greater variety of words than everyday speech. Slang, contractions, and jargon are avoided.\n\t\n\t\n\t\n\tSlang\n\t\n\tVernacular speech that is not accepted as suitable for formal usage is called ____.\n\t\n\t\n\t\n\tIdiom\n\t\n\tThis is a phrase in common use that can not be understood by literal or ordinary meanings."
+    },
+    "13124": {
+        "id": "13124",
+        "summary": "Which sentence is written using formal language?",
+        "explanation": "Incorrect \n\tI cannot believe it will take three hours to complete the transaction. This sentence does not include slang, idioms, or dialect; therefore, it is formal language or Standard American English.\n\t\n\tFormal Language\n\t\n\tThis kind of language usually has longer sentences and a greater variety of words than everyday speech. Slang, contractions, and jargon are avoided.\n\t\n\t\n\t\n\tSlang\n\t\n\tVernacular speech that is not accepted as suitable for formal usage is called ____.\n\t\n\t\n\t\n\tIdiom\n\t\n\tThis is a phrase in common use that can not be understood by literal or ordinary meanings."
+    },
+    "13125": {
+        "id": "13125",
+        "summary": "Which sentence is written using formal language?",
+        "explanation": "Incorrect \n\t Make a list of items that will be needed to complete the project. This sentence does not include slang, idioms, or dialect; therefore, it is formal language, or Standard American English.\n\t\n\tFormal Language\n\t\n\tThis kind of language usually has longer sentences and a greater variety of words than everyday speech. Slang, contractions, and jargon are avoided.\n\t\n\t\n\t\n\tSlang\n\t\n\tVernacular speech that is not accepted as suitable for formal usage is called ____.\n\t\n\t\n\t\n\tIdiom\n\t\n\tThis is a phrase in common use that can not be understood by literal or ordinary meanings."
+    },
+    "13145": {
+        "id": "13145",
+        "summary": "Which pronoun correctly completes the sentence?",
+        "explanation": "Incorrect \n\tHis is the correct answer. Neither is a singular indefinite pronoun; therefore, the singular form his agrees with the antecedent.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "13150": {
+        "id": "13150",
+        "summary": "Which sentence lacks parallel structure?",
+        "explanation": "Incorrect \n\tI am going to the store, shopping for ingredients, then start cooking will begin. 'Going' and 'shopping' are not parallel with 'start'."
+    },
+    "13932": {
+        "id": "13932",
+        "summary": "Read the underlined section 8. There is a mistake in the use of Standard American English conventions. Which of these answers BEST corrects that error?",
+        "explanation": "Incorrect \n\tThe correct answer is tail. In this context, the correct spelling of the word is \"tail.\" The spelling \"tale\" means an imaginary story.\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tcontext\n\t\n\tWhen we find the meaning of a word (or phrase) by looking at the words and sentences around it, we are using ____ clues."
+    },
+    "14162": {
+        "id": "14162",
+        "summary": "Which sentence lacks parallel structure?",
+        "explanation": "Correct \n\tThe correct answer: There are three ways into the apartment building: the back door, the front door, or you could go through the second story fire escape. The first two items listed in the series are simply nouns preceded by an adjective; however the third is a complete clause.\n\t\n\tFirst\n\t\n\tThe point of view in which a story is told by one of the characters is called ____ person."
+    },
+    "14168": {
+        "id": "14168",
+        "summary": "Which sentence lacks parallel structure?",
+        "explanation": "Correct \n\tBecause he waited to the last minute to study, finished his labs too late, and is lacking motivation, Jonathan failed science.  In order to be parallel, a third past tense verb is needed.\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "173": {
+        "id": "173",
+        "summary": "Which verb correctly completes the sentence:",
+        "explanation": "Incorrect \n\tThe plural subject is \"members,\" so it requires a plural form of the verb \"to be.\" The correct answer is were because the verb must agree with the subject.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "175": {
+        "id": "175",
+        "summary": "Identify the type of error found in the sentence.",
+        "explanation": "Incorrect \n\tThe pronoun \"their\" doesn't agree in number with the antecedent, which is \"one.\" One of the boys left HIS jacket in the locker room — that's right!\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "178891": {
+        "id": "178891",
+        "summary": "Fill in the blank with the correct choice.",
+        "explanation": "Incorrect \n\tThe correct answer is to mountain-bike. This choice maintains parallel structure.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "178894": {
+        "id": "178894",
+        "summary": "Fill in the blank with the correct answer.",
+        "explanation": "Incorrect \n\tThe correct answer is thoroughly. This is the choice which maintains parallel structure.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "178897": {
+        "id": "178897",
+        "summary": "Which choice is NOT correct?",
+        "explanation": "Incorrect \n\tThe correct answer is to remember soft drinks as well. Of all of the choices, this is the one which does not maintain parallel structure.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "18523": {
+        "id": "18523",
+        "summary": "Which sentence is written correctly?",
+        "explanation": "Incorrect \n\tThe only sentence that is written correctly is the following: My brother or my sister is going on the trip with my father. All of the other answer choices have singular subjects that are followed by plural verbs: \"are\" instead of the correct verb, \"is.\"\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "18553": {
+        "id": "18553",
+        "summary": "In which sentence are the words spelled and used correctly?",
+        "explanation": "Incorrect \n\tThe correct answer is Robin Hood's favorite weapon was a bow and arrow. The word 'bow.' is used correctly in this sentence. All answer choices contain one of several homophones. A homophone is a word that is pronounced the same as another word but differs in meaning. The words may be spelled the same, such as rose (flower) and rose (past tense of \"rise\"), or differently, such as carat, caret, and carrot, or to, two and too.\n\t\n\tHomophones\n\t\n\tThese are words that are pronounced the same, but have different meanings."
+    },
+    "191247": {
+        "id": "191247",
+        "summary": "If a student is proofreading for use of straightforward subject-verb agreement, which sentence requires correction?",
+        "explanation": "Incorrect \n\tSentence 2 incorrectly uses \"decreases.\" In this sentence, for subject-verb agreement, the verb decrease is correct. 2Vaccine manufacturers work in tandem with government, academic, and nongovernmental agencies to develop safe and effective vaccines that decrease health costs and improve compliance. Plural subjects require plural verbs.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "193629": {
+        "id": "193629",
+        "summary": "Which sentence is not logically structured?",
+        "explanation": "Correct \n\tThe can of potatoes sits on their shelf. This sentence is not logically structured because the pronoun and antecedent do not match. The sentence should be written as follows: The can of potatoes sits on its shelf..\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "194": {
+        "id": "194",
+        "summary": "Choose a predicate that correctly fits the sentence:",
+        "explanation": "Incorrect \n\tThe singular subject is \"girl,\" so the verb must agree with the subject. Only choice B fits a singular subject.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "195": {
+        "id": "195",
+        "summary": "Choose the sentence in which the underlined pronoun is correct.",
+        "explanation": "Correct \n\tThe pronoun must agree in number and gender with its antecedent. One of the girls brought her pictures from the trip. is correct.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "23063": {
+        "id": "23063",
+        "summary": "The last four sentences of the speech (beginning \"Now is the time...\") demonstrate which rhetorical device?",
+        "explanation": "Incorrect \n\tEach of these sentences uses the same grammatical structure, known as parallelism, to produce a pattern that appeals to a listening audience.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tAudience\n\t\n\tThis is whoever will be reading, listening or watching a story, text, or drama."
+    },
+    "23146": {
+        "id": "23146",
+        "summary": "Lines 14, 15, and 16 all start with infinitives followed by prepositional phrases. This is an example of",
+        "explanation": "Incorrect \n\tParallel structure is the repetition of grammatical structure in lines of poetry or sentences.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "236": {
+        "id": "236",
+        "summary": "Which sentence contains a spelling error?",
+        "explanation": "Correct \n\tThe word \"privelaged\" is misspelled. It should read \"privileged.\""
+    },
+    "23880": {
+        "id": "23880",
+        "summary": "In paragraph 4, which rhetorical device does Lincoln use to emphasize that everyone has a stake in the war?",
+        "explanation": "Incorrect \n\tThe correct choice is Parallel structure. Lincoln relates both sides involved in the war by using the words each, neither and both. He connects their actions with parallel syntax throughout the paragraph.\n\t\n\tSyntax\n\t\n\tThis refers to the ordering of elements in a sentence."
+    },
+    "24": {
+        "id": "24",
+        "summary": "Choose the sentence in which the underlined portion is correct.",
+        "explanation": "Incorrect \n\tHenry David Thoreau was imprisoned for not paying a tax; he was proud to be one of the few who adhered to his principles. is correct because one is always considered a singular indefinite pronoun.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "26127": {
+        "id": "26127",
+        "summary": "Read the passage. Look closely at the last sentence in section or paragraph 1. There may be a mistake in the way the sentence is written. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose 'Correct as is.'",
+        "explanation": "Incorrect \n\tThe last sentence of section 1 is Correct as is. This sentence is error free, but the remaining answer choices contain one or more misuses of “their” which is a possessive pronoun like “her” or “our.”"
+    },
+    "26180": {
+        "id": "26180",
+        "summary": "Which is the BEST way to rewrite the third sentence in section 5, to make it clearer?",
+        "explanation": "Incorrect \n\tOne day, because Tam's stepmother despised Tam’s happiness, her stepmother removed the fish from the well and returned it to the river is the correct answer. In the original sentence from the story, the pronoun she could refer to either the stepmother or Tam. By replacing it with her stepmother, it is clear that the stepmother returned the fish to the river.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "29419": {
+        "id": "29419",
+        "summary": "Identify the sentence which represents a SHIFT in the style and syntax of the language used in this text.",
+        "explanation": "Incorrect \n\tSentence 8 is the sentence which represents a shift in the style and syntax of the language used in this text. It is the shortest sentence (8 words) and the only sentence beginning with a pronoun ('I').\n\t\n\tStyle\n\t\n\tThis is the way an author expresses ideas through the use of kinds of words, literary devices, and sentence structure.\n\t\n\t\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "30770": {
+        "id": "30770",
+        "summary": "Choose the word with the correct spelling and context meaning to BEST complete this sentence:",
+        "explanation": "Incorrect \n\tThe correct usage and spelling is whether. The remaining answer choices are either misspelled or do not fit in the sentence.\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "30771": {
+        "id": "30771",
+        "summary": "Choose the word with the correct spelling and context meaning to BEST complete this sentence:",
+        "explanation": "Incorrect \n\tThe correct usage and spelling is accept. Accept means to receive willingly. The remaining answer choices are either misspelled or refer to being left out or excluded.\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tUsage\n\t\n\tThis is the way words and phrases are utilized correctly in written or spoken language."
+    },
+    "30774": {
+        "id": "30774",
+        "summary": "Which word is correctly spelled and will BEST complete this sentence?",
+        "explanation": "Correct \n\tThe correct answer is vegetables. This is the only correct spelling.\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order"
+    },
+    "30781": {
+        "id": "30781",
+        "summary": "Which word is correctly spelled and will BEST complete this sentence?",
+        "explanation": "Correct \n\tThe correct answer is spaghetti. This is the only answer choice that is spelled correctly."
+    },
+    "30785": {
+        "id": "30785",
+        "summary": "The fat brown cat was tired.\n\t\n\tWhich word is a predicate adjective in this sentence?",
+        "explanation": "Incorrect \n\tThe correct answer is tired. Predicate adjectives are adjectives in the complete predicate of the sentence that describe the subject. The other two adjectives, fat and brown, are part of the complete subject, not the predicate.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "30856": {
+        "id": "30856",
+        "summary": "The children in the play ______________ to become actors some day.\n\t\n\tChoose the word that is spelled correctly and fits BEST in the context of the sentence.",
+        "explanation": "Incorrect \n\tAspire is the correct answer. Aspire means \"to try to reach a goal.\""
+    },
+    "30860": {
+        "id": "30860",
+        "summary": "Golden retrievers are friendly family pets. ___________________ known for having good temperaments with young children.\n\t\n\tChoose the word that is spelled correctly and fits BEST in the context of the sentence.",
+        "explanation": "Correct \n\tThey're is the correct answer. It is a contraction of the words they and are."
+    },
+    "30867": {
+        "id": "30867",
+        "summary": "Listen to your ____________; it will tell you right from wrong.\n\t\n\tChoose the word that is spelled correctly and fits BEST in the context of the sentence.",
+        "explanation": "Incorrect \n\tConscience is the correct answer."
+    },
+    "346": {
+        "id": "346",
+        "summary": "Choose the answer that is the most effective substitute for the underlined part of the sentence. If no substitute is necessary, choose ‘Leave as is.’",
+        "explanation": "Incorrect \n\tLeave as is is the correct answer because the items in the series are presented in parallel grammatical form. The test-taking skills (reading, thinking, marking) all end in ing."
+    },
+    "361": {
+        "id": "361",
+        "summary": "Choose the word or phrase that best completes the sentence.",
+        "explanation": "Correct \n\tHer is the correct answer because a pronoun must match its antecedent in number and gender. Her refers to the mother cat.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "36311": {
+        "id": "36311",
+        "summary": "Which choice shows the correct spelling of the possessive form of gentlemen?",
+        "explanation": "Incorrect \n\tThe correct answer is gentlemen's. Since gentlemen is the plural form of gentleman and doesn't end with an s,adding 's is correct."
+    },
+    "366": {
+        "id": "366",
+        "summary": "Choose the word or phrase that best completes the sentence.",
+        "explanation": "Incorrect \n\tVolunteer is the correct answer because it agrees with the subject members.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "376": {
+        "id": "376",
+        "summary": "Choose the word or phrase that best completes the sentence.",
+        "explanation": "Incorrect \n\tAccept is the correct answer because it is a verb that means to receive. The singular form agrees with the subject of the sentence.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "42500": {
+        "id": "42500",
+        "summary": "Which phrase requires a hyphen?",
+        "explanation": "Incorrect \n\tThirty seven needs a hyphen. The correct way to write it is thirty-seven.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "42501": {
+        "id": "42501",
+        "summary": "Which sentence contains a phrase that requires a hyphen?",
+        "explanation": "Incorrect \n\tOur new governor elect was once a football player. The phrase governor-elect requires a hyphen because of the suffix elect.\n\t\n\tSuffix\n\t\n\tThis can be added to the end of a word to change the word's meaning.\n\t\n\t\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "42505": {
+        "id": "42505",
+        "summary": "Which phrase requires a hyphen?",
+        "explanation": "Correct \n\tChocolate covered strawberries, is correct because the phrase \"chocolate covered\" is acting as a single adjective describing \"strawberries\", so the terms should be connected with a hyphen.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "42506": {
+        "id": "42506",
+        "summary": "Joan asked the town councilman to re-sign the letter of petition after she made necessary changes to the original.\n\t\n\tWhy does re-sign contain a hyphen in this sentence?",
+        "explanation": "Incorrect \n\tTo avoid confusion between re-sign and resign, is correct because \"resign\" could imply that the councilman left his position, so a hyphen is placed after the prefix to show the indicated meaning of the term, which is to sign again.\n\t\n\tPrefix\n\t\n\tThis can be added to the beginning of a word to change the word's meaning.\n\t\n\t\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "46": {
+        "id": "46",
+        "summary": "Which sentence uses INCORRECT subject-verb agreement?",
+        "explanation": "Incorrect \n\tEither...come with the sandwich contains an error. When encountering either-or, choose the noun closest to the verb. That will determine your verb. Since potato salad is singular, the correct verb should be comes. Everyone, has; brothers, care; and Donato, plays are all correct.\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "48130": {
+        "id": "48130",
+        "summary": "All are descriptions of conventional language and standard English EXCEPT:",
+        "explanation": "Incorrect \n\tThe correct answer is 2, uses simple vocabulary because this is NOT a description for conventional language and standard English. Conventional language uses more complex vocabulary, not simple vocabulary. The remaining answer choices DO describe conventional language."
+    },
+    "48138": {
+        "id": "48138",
+        "summary": "Identify the sentence that varies from formal standard English.",
+        "explanation": "Incorrect \n\tThe correct answer is I did not finish my social studies homework because I had a ton of math homework. This is the one sentence that varies from conventional standard English. The phrase a ton of homework is considered too casual and informal for standard English."
+    },
+    "48166": {
+        "id": "48166",
+        "summary": "Complete the sentence by adding a personal pronoun that agrees with the antecedent:\n\t\n\tCats often give birth to ___________ kittens in secluded places.",
+        "explanation": "Incorrect \n\tThe correct answer is their because it is the correct antecedent for the noun cats.\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "48170": {
+        "id": "48170",
+        "summary": "Complete the sentence by adding a personal pronoun that agrees with the antecedent:\n\t\n\tThis computer has something wrong with ___________ monitor.",
+        "explanation": "Incorrect \n\tThe correct answer is its because it is the correct antecedent for the noun computer.\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "48182": {
+        "id": "48182",
+        "summary": "Three of these sentences are written in conventional language, using standard English. Identify the one sentence that varies (is different) from conventional standard English.",
+        "explanation": "Incorrect \n\tThe correct answer is Sometimes Vaniesha is a pain in the neck, but Colby loves his little sister. This is the one sentence that varies from conventional standard English. The phrase a pain in the neck is an idiom and considered too casual or informal for standard English.\n\t\n\tIdiom\n\t\n\tThis is a phrase in common use that can not be understood by literal or ordinary meanings."
+    },
+    "49802": {
+        "id": "49802",
+        "summary": "Which pronoun correctly completes the sentence?",
+        "explanation": "Incorrect \n\tThem is the correct answer. Some is an indefinite pronoun that can be either singular or plural depending on the context of the sentence.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tcontext\n\t\n\tWhen we find the meaning of a word (or phrase) by looking at the words and sentences around it, we are using ____ clues."
+    },
+    "49807": {
+        "id": "49807",
+        "summary": "Which pronoun correctly completes the sentence?",
+        "explanation": "Incorrect \n\tHis is the correct answer. Neither is a singular indefinite pronoun; therefore, the singular form his agrees with the antecedent.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "49809": {
+        "id": "49809",
+        "summary": "Which pronoun correctly completes the sentence?",
+        "explanation": "Correct \n\tTheir is the correct answer. Their is a plural indefinite pronoun; therefore, the plural form their agrees with the antecedent.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "50135": {
+        "id": "50135",
+        "summary": "Which sentence contains a phrase that should be hyphenated?",
+        "explanation": "Incorrect \n\tsentence 4 The phrase high-rises requires a hyphen.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "57464": {
+        "id": "57464",
+        "summary": "Which sentence is written correctly?",
+        "explanation": "Incorrect \n\tThe decorator recommended that the wallpaper be changed immediately. The subjunctive mood is needed in \"that\" clauses expressing a wish, request, or report of a command.\n\t\n\tMood\n\t\n\tThis is the feeling that an author wants readers to have while reading."
+    },
+    "57465": {
+        "id": "57465",
+        "summary": "Which sentence is written correctly?",
+        "explanation": "Incorrect \n\tI wish I were still living in Hawaii. The subjunctive mood is needed in main clauses to express a wish, hope, or request.\n\t\n\tMood\n\t\n\tThis is the feeling that an author wants readers to have while reading."
+    },
+    "58535": {
+        "id": "58535",
+        "summary": "Which sentence contains an UNNECESSARY hyphen?",
+        "explanation": "Incorrect \n\tJaylen, like most teens, did not want to clean-up his bedroom. A two-word verb should not be hyphenated. Clean up does NOT need to be hyphenated.\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "58538": {
+        "id": "58538",
+        "summary": "Which sentence contains a phrase that requires a hyphen?",
+        "explanation": "Correct \n\tMy sister is a well liked sophomore in high school. Writers should hyphenate most compound adjectives that precede a noun but not those that follow a noun. Corrected sentence: My sister is a well-liked sophomore in high school."
+    },
+    "58548": {
+        "id": "58548",
+        "summary": "Which sentence contains an UNNECESSARY hyphen?",
+        "explanation": "Correct \n\tIf you want to play soccer you need to sign-up. A two-word verb should not be hyphenated. Sign up does NOT need to be hyphenated.\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "58555": {
+        "id": "58555",
+        "summary": "Which word requires a hyphen?",
+        "explanation": "Correct \n\tThe word unAmerican requires a hyphen. Use a hyphen when when joining a prefix to a word that must be capitalized.\n\t\n\tPrefix\n\t\n\tThis can be added to the beginning of a word to change the word's meaning.\n\t\n\t\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "58683": {
+        "id": "58683",
+        "summary": "Which is used when it is necessary to divide a word between syllables at the end of a line of type?",
+        "explanation": "Incorrect \n\tA hyphen is used when it is necessary to divide a word between syllables at the end of a line of type."
+    },
+    "58684": {
+        "id": "58684",
+        "summary": "To create an informal tone, writers often use hyphens to connect words not ordinarily linked. This is called a coined compound. Identify the coined compound portion of the following sentence for which hyphens would be appropriate.\n\t\n\tLast Friday night we were in a let it all hang out frame of mind, so we went dancing.",
+        "explanation": "Incorrect \n\tLet-it-all-hang-out is a coined compound. Hyphens should be used to connect these words.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "58685": {
+        "id": "58685",
+        "summary": "Which sentence contains a word or phrase that needs to be hyphenated?",
+        "explanation": "Incorrect \n\tMy sister in law is one of my closest friends. The word \"sister-in-law\" needs to be hyphenated. Conventions change, but the phrase sister-in-law would be BETTER understood if it were hyphenated.\n\t\n\tConventions\n\t\n\tIn writing or speaking, we follow agreed-upon rules, called ____, for spelling, punctuation, grammar, capitalization, and paraphrasing."
+    },
+    "58687": {
+        "id": "58687",
+        "summary": "Which sentence is written correctly?",
+        "explanation": "Incorrect \n\tThe following sentence uses hyphenation correctly: She was a non-native speaker of Spanish, but she did pretty well in the interview. Use a hyphen to prevent confusion from combinations of double consonants such as the nn in non-native.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "58688": {
+        "id": "58688",
+        "summary": "Which sentence is written correctly?",
+        "explanation": "Incorrect \n\tThe sentence that uses a hyphenated word correctly is the following one: The doctor prescribed me an anti-inflammatory drug. Use a hyphen to prevent confusion from combinations of double ii vowels such as the ii inanti-inflammatory.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "59225": {
+        "id": "59225",
+        "summary": "Which rhetorical device is used in the sentence?",
+        "explanation": "Incorrect \n\tParallelism is the rhetorical device used in the sentence. The speaker uses parallel verb phrases to add balance and rhythm to his points.\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "6117": {
+        "id": "6117",
+        "summary": "Look at the underlined section labelled 5. There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Incorrect \n\tEscape from their enemies by jumping away is the correct answer because although many people mispronounce the word, there is no x in escape. \"Their\" is correct because it is a possessive pronoun that tells whose enemies. \"Enemies\" is a plural noun and does not need an apostrophe.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "6120": {
+        "id": "6120",
+        "summary": "Read the underlined section labeled 8. There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Correct \n\tcovered with fur to the tip of its coarse, scaly tail is the correct answer because Fir/fur, course/coarse, and tail/tale are homophones. They sound the same, but they have different spellings and different meanings. Fir is a tree, and fur is hair on an animal. Course is the way of something, and coarse means rough in texture. Tale is a story while tail is the end of something.\n\t\n\tHomophones\n\t\n\tThese are words that are pronounced the same, but have different meanings.\n\t\n\t\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order"
+    },
+    "6126": {
+        "id": "6126",
+        "summary": "Read the passage underlined (4). There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Incorrect \n\tCorrect as is is the correct answer because made and maid are homophones. They sound alike, but they have different spellings and different meanings. Since made is the past tense of make, it is the correct word for the sentence. Whom is the objective case and cannot be used as the subject.\n\t\n\tObjective\n\t\n\tThis is information or a source that is free from the author's personal feelings about the subject.\n\t\n\t\n\t\n\tHomophones\n\t\n\tThese are words that are pronounced the same, but have different meanings.\n\t\n\t\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "6161": {
+        "id": "6161",
+        "summary": "Read the passage underlined (4). There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Incorrect \n\tWear clothing suited to the occasion is the correct answer. \"Ware\", \"wear\", and \"where\" are homophones that sound alike, but they have different meanings and spellings. \"Ware\" is an item of merchandise. \"Wear\" is a verb which means to use clothing. \"Where\" means at, to, or in which place. \"Were\" is a past tense verb.\n\t\n\tHomophones\n\t\n\tThese are words that are pronounced the same, but have different meanings.\n\t\n\t\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "6195": {
+        "id": "6195",
+        "summary": "Read the passage underlined (9). There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Incorrect \n\tCorrect as is is the correct answer because wood/would and role/roll are homophones. They sound the same but have different meanings and different spellings. Wood is a substance that comes from trees or shrubs. Would is a helping verb and is the correct word for this sentence. Role means function or use and is the correct word for this sentence.\n\t\n\tHomophones\n\t\n\tThese are words that are pronounced the same, but have different meanings.\n\t\n\t\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "6236": {
+        "id": "6236",
+        "summary": "Read the passage underlined (6). There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Incorrect \n\twhen the Cleveland Indians gave their managerial post to Frank Robinson, a Hall of Fame bound slugger is the correct answer. Their/there are homophones that sound alike but have different meanings and different spellings. Their is a possessive pronoun and fits in this sentence. There means in that place and does not fit. No additional commas are needed in this part of the sentence.\n\t\n\tHomophones\n\t\n\tThese are words that are pronounced the same, but have different meanings.\n\t\n\t\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "6239": {
+        "id": "6239",
+        "summary": "Read the passage underlined (9). There may be a mistake in punctuation, capitalization, or spelling. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Correct \n\tRobinson's widow accepted the award in a ceremony in the Capitol Rotunda on March 2, 2005 is the correct answer because accept/except are easily confused. They sound alike, but they have very different meanings and spellings. Accept is a verb that means to receive. The past tense fits in this sentence. No commas are needed in this sentence.\n\t\n\tspelling\n\t\n\tThe forming of words with letters in the correct order\n\t\n\t\n\t\n\tConfused\n\t\n\tThese are words that sound somewhat alike but have different meanings/usage and can cause writers problems. They are commonly ___ words.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "63688": {
+        "id": "63688",
+        "summary": "Which sentence is written correctly with parallel structure?",
+        "explanation": "Incorrect \n\tThe only sentence that has correct parallel structure is the following one: Sheila Peterson can run 20 miles, swim three miles, and bike 30 miles, all without breaking a sweat.. The three main verbs are all in the same tense, with the same grammatical pattern.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "63690": {
+        "id": "63690",
+        "summary": "Which sentence is written correctly with parallel structure?",
+        "explanation": "Incorrect \n\tThe only sentence that has correct parallel structure is the following one: Mrs. Pinch forbids many actions in her classroom--the most prominent being texting, sleeping, and cheating.. All three of the verbs at the end of the sentence need to be in participial form.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "63693": {
+        "id": "63693",
+        "summary": "Which sentence has an error in parallel structure?",
+        "explanation": "Incorrect \n\tThe sentence that has a problem with parallel structure is the following one: To celebrate their mother's birthday, the children served her breakfast in bed, they also made her cards, and went to dinner at a fancy restaurant. The three actions the children do for their mother are written in three different grammatical structures.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "63784": {
+        "id": "63784",
+        "summary": "Which sentence has an error in parallel structure?",
+        "explanation": "Incorrect \n\tThe sentence that has a problem with parallel structure is the following one: Henry would store batteries under the sofa, behind the refrigerator, and sometimes he'd put them in the closet too. The last place Henry hides batteries should be listed as \"and sometimes in the closet too\" without the clause \"he'd put them.\"\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "63786": {
+        "id": "63786",
+        "summary": "Which sentence has an error in parallel structure?",
+        "explanation": "Correct \n\tThe sentence that has a problem with parallel structure is the following one: My father taught me to always be kind, to always be strong, and that I should always be truthful. The last item in this list (in order to be parallel) should read \"and to always be truthful.\"\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "64173": {
+        "id": "64173",
+        "summary": "Which sentence fails to use correct parallel structure?",
+        "explanation": "Incorrect \n\tThe following sentence lacks parallel structure: I don't know which is irritating me more right now: the ringing phone, the crying baby, or the dog that won't stop begging at my feet. The last item in this list is not parallel to the rest. The sentence should read as follows: \"I don't know which is more irritating to me right now: the ringing phone, the crying baby, or the begging dog.\"\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "64174": {
+        "id": "64174",
+        "summary": "Which sentence fails to use correct parallel structure?",
+        "explanation": "Incorrect \n\tThe following sentence lacks parallel structure: If you want to train well, you need to work on your rowing, hiking, biking, and of course you need to run more. The last item in this list is not parallel to the rest. The sentence should read as follows: \"If you want to train well, you need to work on your rowing, hiking, biking, and running.\"\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "64246": {
+        "id": "64246",
+        "summary": "Which sentence has a subject-verb agreement error?",
+        "explanation": "Incorrect \n\tThe sentence that has a subject-verb agreement error is the following one: Everyone who isn't going on the field trip with the rest of the band ensemble need to get out a pencil and paper to do a timed, in-class essay. The singular subject \"Everyone\" needs to be followed by the singular verb \"needs\"--instead of the plural verb \"need.\"\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "64247": {
+        "id": "64247",
+        "summary": "Which sentence has a subject-verb agreement error?",
+        "explanation": "Correct \n\tThe sentence that has a subject-verb agreement error is the following one: Neither the coach nor his players knows whether or not this season will end in a championship ring or not. The plural subject \"players\" needs to be followed by the plural verb \"know\"--instead of the singular verb \"knows.\" In a \"Neither-nor\" construction always treat the noun closest to the verb as the \"true\" subject of the sentence.\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "64259": {
+        "id": "64259",
+        "summary": "Which sentence has a subject-verb agreement error?",
+        "explanation": "Incorrect \n\tThe sentence that has a subject-verb agreement error is the following one: According to Mom, the chairs or the table that we bought at the yard sale definitely need refinishing. The singular subject \"table\" needs to be followed by the singular verb \"needs\"--instead of the plural verb \"need.\" In a \"Either-or\" construction always treat the noun closest to the verb as the \"true\" subject of the sentence--in this case, the “true” subject is the word “table.”\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "64265": {
+        "id": "64265",
+        "summary": "Which sentence has a subject-verb agreement error?",
+        "explanation": "Correct \n\tThe sentence that has a subject-verb agreement error is the following one: One of my sister's friends that she made in her college sorority are a doctor. The singular subject \"One\" needs to be followed by the singular verb \"is\"--instead of the plural verb \"are.\"\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action.\n\t\n\t\n\t\n\tVerb\n\t\n\tThis is the part of speech that shows action and existence."
+    },
+    "6470": {
+        "id": "6470",
+        "summary": "Read the passage. Look at the underlined sections marked number (17). There may be a mistake in the way the sentence is written. If you find a mistake, choose the answer that corrects the mistake. If there is no mistake, choose ‘Correct as is.’",
+        "explanation": "Incorrect \n\tThe walls of Valhalla were hung with shields; its ceiling glittered with polished spearheads. In this sentence, the structure of the two main clauses is parallel.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "64875": {
+        "id": "64875",
+        "summary": "Which sentence has an error in pronoun-antecedent agreement?",
+        "explanation": "Correct \n\tThe sentence that has an pronoun-antecedent error is the following one: Each of the students in this room will be responsible for providing their own copy of the novel.. The pronoun \"each\" is singular and should be matched with a singular pronoun--like \"his,\" \"her\" or \"his or her.\" As written, the sentence uses a plural pronoun (\"their\") instead.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tNovel\n\t\n\tThis is a long work of fiction. It has a complicated plot, many characters, a significant theme, and varied settings."
+    },
+    "64876": {
+        "id": "64876",
+        "summary": "Which sentence has an error in pronoun-antecedent agreement?",
+        "explanation": "Correct \n\tThe sentence that has an pronoun-antecedent error is the following one: I wish that at least one of these kids would volunteer to spend their time at the nursing home.. The pronoun \"one\" is singular and should be matched with a singular pronoun--like \"his,\" \"her\" or \"his or her.\" As written, the sentence uses a plural pronoun (\"their\") instead.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "64935": {
+        "id": "64935",
+        "summary": "Which sentence has an error in pronoun-antecedent agreement?",
+        "explanation": "Incorrect \n\tThe sentence that has an pronoun-antecedent error is the following one: Although politicians make many promises to their constituents, he often are not able to deliver on those promises.. The noun \"politicians\" is plural--and the pronoun that refers to that noun should therefore be plural as well. Instead of \"he,\" the sentence should read \"they\" to refer correctly to \"politicians.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "64937": {
+        "id": "64937",
+        "summary": "Which sentence has an error in pronoun-antecedent agreement?",
+        "explanation": "Correct \n\tThe sentence that has an pronoun-antecedent error is the following one: Anyone who has ever put a pen to paper for creative purposes can contribute their work to our new poetry anthology.. The pronoun \"anyone\" is singular in construction and should be referred to with a singular pronoun like \"his,\" \"hers,\" or \"his or hers.\" The sentence as written refers to \"anyone\" with the plural pronoun \"they\"--which is incorrect.\n\t\n\tPurpose\n\t\n\tAn author's ____ could be to inform, to entertain, or to persuade.\n\t\n\t\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "66267": {
+        "id": "66267",
+        "summary": "Which pronoun completes the sentence correctly?",
+        "explanation": "Incorrect \n\tIts is correct. Its refers to the public's belief and brings agreement to the singular collective antecedent.\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "66368": {
+        "id": "66368",
+        "summary": "Which sentence uses simple parallel structure?",
+        "explanation": "Correct \n\tErin likes marching in the band, playing the trombone, and watching the football games. This sentence uses parallel structure with the use of the words marching, playing, and watching.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "66370": {
+        "id": "66370",
+        "summary": "Which sentence uses parallel structure?",
+        "explanation": "Incorrect \n\tFran applied her eyeliner carefully, slowly, and steadily. This sentence uses adverb coordination."
+    },
+    "6662": {
+        "id": "6662",
+        "summary": "In line 21, to what does they refer?",
+        "explanation": "Incorrect \n\tThe daffodils is the correct answer because the poet is remembering the beauty and pleasure of seeing the many daffodils."
+    },
+    "66845": {
+        "id": "66845",
+        "summary": "Which phrase uses a hyphen INCORRECTLY?",
+        "explanation": "Incorrect \n\tThe phrase a perfectly-good job uses a hyphen incorrectly. Hyphens are not needed after abverbs that end in -ly. The correct way to write the phrase is perfectly good answer.\n\t\n\tHyphen\n\t\n\tThis is a small horizontal line used to set off parts of sentences, or to create compounds."
+    },
+    "89409": {
+        "id": "89409",
+        "summary": "Fill in the blank with the correct pronoun.",
+        "explanation": "Correct \n\tThe correct answer is that, which refers back to the antecedent \"team\" in the sentence.\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "89410": {
+        "id": "89410",
+        "summary": "Supply the proper pronoun.",
+        "explanation": "Incorrect \n\tThe correct answer is which. The phrase \"which is two days from now\" is an inessential clause, and inessential clauses always begin with \"which\" if the antecedent is a thing (in this case, \"Thursday\") rather than a person.\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "89424": {
+        "id": "89424",
+        "summary": "Supply the correct pronoun.",
+        "explanation": "Incorrect \n\tThe correct answer is your. The antecedent in the sentence is the understood \"you\"; therefore, the possessive pronoun would be \"your.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tAntecedent\n\t\n\tA pronoun must always match the word it is substituting for in person, number and gender. This is called pronoun-____ agreement."
+    },
+    "90065": {
+        "id": "90065",
+        "summary": "Select the pronoun that correctly completes this sentence:\n\t\n\tThe football team cannot play ____ best when it is so hot.",
+        "explanation": "Incorrect \n\tIts correctly completes the sentence."
+    },
+    "90066": {
+        "id": "90066",
+        "summary": "Select the pronoun that correctly completes this sentence:\n\t\n\tWith practice, anybody can learn how to prepare and cook ____own meals.",
+        "explanation": "Incorrect \n\tHis or her correctly completes the sentence. A singular pronoun is needed.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "90068": {
+        "id": "90068",
+        "summary": "Select the pronoun that correctly completes this sentence:\n\t\n\tNeither Brent nor Graham can give _________ report today.",
+        "explanation": "Incorrect \n\tHis correctly completes the sentence."
+    },
+    "90071": {
+        "id": "90071",
+        "summary": "Select the pronoun that correctly completes this sentence:\n\t\n\tBoth of the students have made _____________ preferences known to the teacher.",
+        "explanation": "Correct \n\tTheir correctly completes the sentence.\n\t\n\tBoth of the students have made their preferences known to the teacher."
+    },
+    "90074": {
+        "id": "90074",
+        "summary": "Select the pronoun that correctly completes this sentence:\n\t\n\tMany excellent managers help _______________ employees adjust to schedule and task changes.",
+        "explanation": "Incorrect \n\tTheir correctly completes this sentence: \n\t\n\tMany excellent managers help their employees adjust to schedule and task changes."
+    },
+    "90076": {
+        "id": "90076",
+        "summary": "Select the pronoun that correctly completes this sentence:\n\t\n\tSheila and Suzanne always meet at the bookstore for _____________ weekly study session.",
+        "explanation": "Incorrect \n\tTheir is the pronoun that correctly completes this sentence:\n\t\n\tSheila and Suzanne always meet at the bookstore for their weekly study session.\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "90538": {
+        "id": "90538",
+        "summary": "Which sentence uses the word [discrete] as it is defined in this dictionary entry?\n\t\n\tdiscrete: adj. \"separate and distinct\"",
+        "explanation": "Incorrect \n\tThe only sentence that uses the word \"discrete\" properly (according to the listed dictionary definition) is the following one: Each of the test items measures a discrete skill in working with graphs.\n\t\n\tDefinition\n\t\n\tUsually found in a dictionary, this tells you the meaning of a word or phrase."
+    },
+    "90541": {
+        "id": "90541",
+        "summary": "Which sentence uses the word [pour] as it is defined in this dictionary entry?\n\t\n\tpour: v. \"to flow or cause to flow\"",
+        "explanation": "Correct \n\tThe only sentence that uses the word \"pour\" properly (according to the listed dictionary definition) is the following one: Do you need me to pour more syrup on that waffle so that it is even sweeter?\n\t\n\tDefinition\n\t\n\tUsually found in a dictionary, this tells you the meaning of a word or phrase."
+    },
+    "93224": {
+        "id": "93224",
+        "summary": "Which sentence is an example of formal language?",
+        "explanation": "Incorrect \n\tThe correct answer is That test was incredibly easy. Of all of the choices, this is the one that does not use an informal expression."
+    },
+    "94": {
+        "id": "94",
+        "summary": "Identify the sentence that lacks parallel structure.",
+        "explanation": "Correct \n\tMany students envied Isabella's ability to run hurdles, throw the javelin and run in the relay race. Only the first verb, to run, is in the infinitive form.\n\t\n\tFirst\n\t\n\tThe point of view in which a story is told by one of the characters is called ____ person."
+    },
+    "96": {
+        "id": "96",
+        "summary": "Please fill in the blank with the words that best illustrate parallel structure.",
+        "explanation": "Correct \n\tA is correct. All of the words are nouns. Your peanut butter and jelly preference is irrelevant. (Although, creamy Peter Pan is the best!)"
+    },
+    "97278": {
+        "id": "97278",
+        "summary": "Which is the best version of this sentence?",
+        "explanation": "Correct \n\tThe best revision of the sentence is as follows: Contrary to most other reviewers, John Crutchley found director Terence Malick's film to be slow, excruciatingly boring, and (worst of all) predictable. In addition to being concise and straightforward, this sentence also uses parallel structure correctly.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work.\n\t\n\t\n\t\n\tFilm\n\t\n\tThis form of media projects individual pictures onto a screen to produce the illusion of continuous motion.\n\t\n\t\n\t\n\tRevision\n\t\n\tThese are changes made to a draft to improve its focus, content or organization."
+    },
+    "99": {
+        "id": "99",
+        "summary": "Which sentence is the best example of parallel structure?",
+        "explanation": "Correct \n\tParallel structure uses the same grammatical form to express equal, or parallel, ideas. B is correct because each noun in the predicate is preceded by an adjective.\n\t\n\tStructure\n\t\n\tThis refers to a writer's arrangement or overall design of a literary work. It is the way words, sentences, and paragraphs are organized to create a complete work."
+    },
+    "99649": {
+        "id": "99649",
+        "summary": "Which sentence has an incorrect shift in pronoun-antecedent agreement?",
+        "explanation": "Incorrect \n\tThe sentence with a pronoun error is the following one: Each of these women run their own business. The pronoun \"each\" is singular and should be matched with another singular pronoun--such as \"her.\" The sentence should read, \"Each of these women runs her own business.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun."
+    },
+    "99650": {
+        "id": "99650",
+        "summary": "Which sentence has an incorrect shift in pronoun-antecedent agreement?",
+        "explanation": "Correct \n\tThe sentence with a pronoun error is the following one: Hilda and Bryan presented his report to the entire class. The subject of the sentence, \"Hilda and Bryan\" is plural and should be matched with a plural pronoun--\"their\" instead of \"his.\" The sentence should read, \"Hilda and Bryan presented their report to the entire class.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "99652": {
+        "id": "99652",
+        "summary": "Which sentence has an incorrect shift in pronoun-antecedent agreement?",
+        "explanation": "Incorrect \n\tThe sentence with a pronoun error is the following one: Either Ben or George is willing to drive their car to the show. The subject of the sentence, \"Either Ben or George\" is singular and should be matched with a singular pronoun--\"his\" instead of \"their.\" The sentence should read, \"Either Ben or George is willing to drive his car to the show.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "99664": {
+        "id": "99664",
+        "summary": "Which sentence has an incorrect shift in pronoun-antecedent agreement?",
+        "explanation": "Incorrect \n\tThe sentence with a pronoun error is the following one: Students must see his counselors before the end of the semester. The subject of the sentence, \"students\" is plural and should be matched with a plural pronoun--\"their\" instead of \"his.\" The sentence should read, \"Students must see their counselors before the end of the semester.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "99671": {
+        "id": "99671",
+        "summary": "Which sentence has an incorrect shift in pronoun-antecedent agreement?",
+        "explanation": "Incorrect \n\tThe sentence with a pronoun error is the following one: An apprentice can learn how to do a trade from their master. The subject of the sentence, \"An apprentice\" is singular and should be matched with a singular pronoun--\"his\" or \"her\" instead of \"their.\" The sentence should read, \"An apprentice can learn how to do a trade from his master.\"\n\t\n\tPronoun\n\t\n\tThis is a word that takes the place of a noun.\n\t\n\t\n\t\n\tSubject\n\t\n\tThis is a person, place, thing, or idea, that the sentence is about or that performs an action."
+    },
+    "99935": {
+        "id": "99935",
+        "summary": "Which strategy would MOST improve Laurel's statement by making its language more conventional?\n\t\n\t(Laurel is meeting with the new neighbors to discuss babysitting for her three year old daughter.)\n\t\n\tLaurel: \"I always enjoy babysitting for a little boy named Grant on the weekend, even though I could be out shooting the breeze with friends.\"",
+        "explanation": "Correct \n\tThe following strategy would make Laurel's statement more conventional: Change the phrase \"shooting the breeze\" because it is too informal and cannot be understood literally. This answer choice addresses the use of the idiom \"shooting the breeze\" which should be rephrased in Laurel's situation.\n\t\n\tIdiom\n\t\n\tThis is a phrase in common use that can not be understood by literal or ordinary meanings."
+    },
+    "99937": {
+        "id": "99937",
+        "summary": "Choose a word or phrase that completes the statement using conventional language.\n\t\n\tThe employee left his lunch in the refrigerator, but when he returned and it was gone, he",
+        "explanation": "Incorrect \n\tYelled in outrage is the phrase that completes the statement using conventional language. The other answer choices can be understood only figuratively, not literally."
+    },
+    "99938": {
+        "id": "99938",
+        "summary": "Choose a word or phrase that completes the statement using standard, conventional language.\n\t\n\tWhen teenagers break rules, many parents feel it is necessary to...",
+        "explanation": "Incorrect \n\tSet new rules with stronger punishments is the phrase that completes the statement using conventional language. The other answer choices contain word choices that are not conventional (lay down the law; squash; kids; straighten up).\n\t\n\tWord Choice\n\t\n\tThis is another way of saying \"diction.\" This can help reveal a) the tone of the work, b) connotations of meaning, and/or c) his style of writing."
+    },
+    "99939": {
+        "id": "99939",
+        "summary": "The way we express ourselves varies. Sometimes and in some places, we speak or write informally, but at other times or in other places, we speak or write more formally.\n\t\n\tWhich list of settings is acceptable for more informal speech and writing choices?",
+        "explanation": "Incorrect \n\tConversation with your friend, personal letter, joke-This list contains settings that are appropriate for informal speech and writing word choices.\n\t\n\tSpeech\n\t\n\tThis is a talk or public address.\n\t\n\t\n\t\n\tSetting\n\t\n\tThis is the time and place in which a literary work happens.\n\t\n\t\n\t\n\tWord Choice\n\t\n\tThis is another way of saying \"diction.\" This can help reveal a) the tone of the work, b) connotations of meaning, and/or c) his style of writing."
+    },
+    "99941": {
+        "id": "99941",
+        "summary": "Choose the replacement that MOST improves the underlined expression by changing it to concise and conventional language.\n\t\n\tHolding her spoon, Janine grabbed the jar and then scooped out a big old glob of peanut butter.",
+        "explanation": "Incorrect \n\tA large spoonful is the best answer choice to express the underlined portion (a big old glob) in a more concise way and with conventional language."
+    }
+}
